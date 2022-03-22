@@ -4,6 +4,8 @@ header {
     color: #AC2B37; 
     font-size: 25px;
     text-align: center;
+    background-color: rgb(172, 172, 172);
+    padding: 2%;
    }
 
 #content {
